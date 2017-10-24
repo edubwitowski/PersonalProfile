@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Eric</string>
+    <string name="txt_caption">Erics Inspirational Quote!!</string>
+    <string name="btn_view">View Stats</string>
+    <string name="txt_bio">Eric Loves playing baseball with his boys, inspiring people including
+    my kids mom, to do great things and create a great Life!!Always Be Inspired!!!</string>
+</resources>
